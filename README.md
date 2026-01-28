@@ -70,12 +70,6 @@ Agile (Scrum), Object-Oriented Programming, Data Pipelines, Model Evaluation
 
 ---
 
-
-## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=atredd23&theme=flat&margin-w=10&margin-h=10&column=4&title_color=800020)
-
----
-
 ## ✍️ Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&border_color=800020&quote_color=800020)
 
