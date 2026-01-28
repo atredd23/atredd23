@@ -5,7 +5,7 @@
 I'm passionate about building data-driven solutions that solve real-world problems. My interests span predictive modeling, machine learning systems, and applied analytics. I enjoy transforming messy datasets into meaningful insights and scalable tools.
 
 I also write about AI, machine learning, and emerging technologies on my blog:  
-✍️ **https://explore-ai-with-shree.tech**
+✍️ [explore-ai-with-shree.tech](https://explore-ai-with-shree.tech)
 
 ---
 
@@ -48,8 +48,8 @@ I enjoy combining analytics with automation to eliminate repetitive workflows an
 ---
 
 ## 🌐 Connect With Me
-- ✍️ AI Blog: https://explore-ai-with-shree.tech  
-- 💼 LinkedIn: https://www.linkedin.com/in/dhanshree-atre/  
+- ✍️ AI Blog: [explore-ai-with-shree.tech](https://explore-ai-with-shree.tech)  
+- 💼 LinkedIn: [linkedin.com/in/dhanshree-atre](https://www.linkedin.com/in/dhanshree-atre/)  
 - 📧 Email: atre.dhanshree@gmail.com  
 
 ---
@@ -70,13 +70,13 @@ Agile (Scrum), Object-Oriented Programming, Data Pipelines, Model Evaluation
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=atredd23&show_icons=true&title_color=800020&icon_color=800020&text_color=2f2f2f&bg_color=ffffff)
+## 🟩 GitHub Contribution Calendar
+![Dhanshree's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=atredd23&bg_color=ffffff&color=800020&line=800020&point=800020&area_color=F5E3E3&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=atredd23&theme=flat&title=Stars,Followers,Commits,Repositories&margin-w=10&no-bg=true&column=4&title_color=800020)
+![Trophies](https://github-profile-trophy.vercel.app/?username=atredd23&theme=flat&margin-w=10&margin-h=10&column=4&title_color=800020)
 
 ---
 
