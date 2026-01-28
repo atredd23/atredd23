@@ -70,10 +70,6 @@ Agile (Scrum), Object-Oriented Programming, Data Pipelines, Model Evaluation
 
 ---
 
-## 🟩 GitHub Contribution Calendar
-![Dhanshree's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=atredd23&bg_color=ffffff&color=800020&line=800020&point=800020&area_color=F5E3E3&hide_border=true)
-
----
 
 ## 🏆 GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=atredd23&theme=flat&margin-w=10&margin-h=10&column=4&title_color=800020)
